@@ -1,7 +1,7 @@
 ## Installation
 
 ### Prérequis
-- Typescript version 5.0.0
+- Typescript version 5.9.3
 - Node version 22.13.0
 
 ### Commandes
