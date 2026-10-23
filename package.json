@@ -1,0 +1,34 @@
+{
+  "name": "algorithmie-simple",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doudou-99/algorithmie-simple.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/doudou-99/algorithmie-simple/issues"
+  },
+  "homepage": "https://github.com/doudou-99/algorithmie-simple#readme",
+  "dependencies": {
+    "jest": "^30.5.2",
+    "nodemon": "^3.1.14",
+    "typescript": "^7.0.2"
+  },
+  "devDependencies": {
+    "@types/jest": "^30.0.0",
+    "@types/node": "^26.6.5",
+    "eslint": "^10.13.0",
+    "eslint-config-prettier": "^10.1.8",
+    "prettier": "^3.9.10",
+    "ts-node": "^10.9.2"
+  }
+}
