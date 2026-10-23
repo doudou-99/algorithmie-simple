@@ -2,7 +2,7 @@ import { defineConfig } from "eslint/config";
 
 export default defineConfig([
   { 
-    files: ["**/*.{ts}"], 
+    files: ["**/*.{ts, mts}"], 
     extends: ["js/recommended"], 
     rules: {
         "max-lines-per-function": ["error", 50],
